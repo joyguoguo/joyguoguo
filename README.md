@@ -1,7 +1,7 @@
 - 👋  @joyguoguo
 - 👀 I’m interested in dl, nlp...
 - 🌱 I’m currently learning in SUSTech.
-- 💞️ 想做个签到狂魔
+  
 
 <!---
 joyguoguo/joyguoguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
