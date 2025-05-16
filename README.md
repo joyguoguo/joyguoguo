@@ -1,6 +1,6 @@
 - 👋  @joyguoguo
 - 👀 I’m interested in dl, nlp...
-- 🌱 I’m currently learning in SUSTech.
+
   
 
 <!---
