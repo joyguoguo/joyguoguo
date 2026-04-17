@@ -1,7 +1,7 @@
 - 👋 Jiayi Guo
 - 🏫 SUSTech 23 CS
 - 📫 guoguojoy@qq.com  
-- 👀 I’m interested in dl, nlp...
+- 👀 I’m interested in nlp, llm, post training...
 
   
 
